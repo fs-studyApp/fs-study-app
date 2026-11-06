@@ -1,0 +1,1 @@
+{"format":"study-enc-v1","kid":"4964dde3eec4bb22","kdf":{"name":"PBKDF2","hash":"SHA-256","iterations":600000,"salt":"fs-study-app/content-key/v1"},"test":false}
